@@ -45,3 +45,32 @@ selenium-amazon-test/
 └── src/test/java/
     └── AmazonTest.java  # Selenium test cases for Amazon
 ```
+
+
+---
+
+## ▶️ How to Run
+
+### Option 1 (Easy - IntelliJ)
+1. Clone the project
+2. Open in IntelliJ IDEA
+3. Right click `testng.xml`
+4. Click Run
+
+---
+
+### Option 2 (Optional - Maven)
+If Maven is installed:
+
+mvn test
+
+
+## 📊 Output Example
+iPhone Price: ₹1,74,900
+Samsung Galaxy Price: ₹89,999
+
+
+---
+
+## 👨‍💻 Author
+Jatin Agrawal
